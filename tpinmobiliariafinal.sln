@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpinmobiliariafinal", "tpinmobiliariafinal\tpinmobiliariafinal.csproj", "{F720E1C5-D48C-4D1D-8955-52715B1C4428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F720E1C5-D48C-4D1D-8955-52715B1C4428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F720E1C5-D48C-4D1D-8955-52715B1C4428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F720E1C5-D48C-4D1D-8955-52715B1C4428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F720E1C5-D48C-4D1D-8955-52715B1C4428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A92871-6085-4748-A43C-C81765314F25}
+	EndGlobalSection
+EndGlobal
